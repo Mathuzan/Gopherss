@@ -8,7 +8,7 @@ import (
 )
 
 //Main function begins
-func main() {
+func main () {
 	var command = "rooms"
 
 	if command == "cave" {

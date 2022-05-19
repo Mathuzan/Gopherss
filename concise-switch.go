@@ -6,7 +6,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main () {
 	fmt.Println("There is a cavern entrance here and a path to the east!")
 	var command = "go inside"
 
