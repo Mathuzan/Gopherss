@@ -9,6 +9,11 @@ import(
 //Function main begins
 func main() {
 
+	var (
+		x int 
+		y int
+	)
+
 	fmt.Println("Square no Pattern")
 
 	fmt.Println("Enter the no of rows: ")
@@ -21,8 +26,8 @@ func main() {
 	var j int
 	fmt.Scan(&j)
 
-	for x := 1; x <= 5; x++ {		
-		for y := 1; y <= j; y++ {
+	for x = 1; x <= 5; x++ {		
+		for y = 1; y <= j; y++ {
 			fmt.Print("1")
 		}
 		fmt.Println()
