@@ -31,7 +31,7 @@ func main() {
 	var lastName string
 	var email string
 	var userTickets uint
-
+ 
 	//ask user for their name
 	fmt.Println("Enter your first name: ")
 	fmt.Scan(&firstName)
