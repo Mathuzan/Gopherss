@@ -7,7 +7,7 @@ import(
 )
 
 //Function main begins
-func main() {
+func main() { 
 
 	//Ask for the Input rows : 
 	fmt.Println("Enter the no of Rows: ")
